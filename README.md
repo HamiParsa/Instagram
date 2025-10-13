@@ -1,25 +1,28 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>📸 Instagram Clone Pro</h1>
+  <p>Modern Instagram-like front-end project with stories, posts, and comments ✨</p>
   <a href="https://hamiparsa.github.io/Instagram/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# Instagram Clone Pro 📸✨
+---
 
-Instagram Clone Pro is a modern front-end social media project replicating Instagram’s core functionality. Users can view stories, create posts with images and captions, like posts, add comments, and interact with a responsive and dynamic UI. The project demonstrates advanced front-end skills using React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons.
+## 📝 About the Project
+
+**Instagram Clone Pro** is a modern front-end social media project built with **React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons**. Users can interact with posts, stories, and comments in a responsive and polished UI.
 
 ---
 
-## Features:
+## ✨ Features
 
 <ul>
-  <li>View interactive stories with progress bar and click navigation (next/previous)</li>
-  <li>Create new posts by uploading images and adding captions</li>
+  <li>Interactive stories with progress bar and click navigation (next/previous)</li>
+  <li>Create posts by uploading images and adding captions</li>
   <li>Preview uploaded images before posting</li>
   <li>Like and comment on posts</li>
   <li>Delete posts</li>
-  <li>Responsive feed with posts centered and scalable for different screen sizes</li>
+  <li>Responsive feed centered for different screen sizes</li>
   <li>Dynamic Navbar with scalable icons</li>
   <li>Drag & drop file upload with animated input box</li>
   <li>Dark mode-inspired modern UI</li>
@@ -27,68 +30,58 @@ Instagram Clone Pro is a modern front-end social media project replicating Insta
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and server-side rendering
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-  <li>
-    React Icons for scalable vector icons
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Build interactive UI components |
+| 🧭 **Next.js** | Routing and server-side rendering |
+| 🟦 **TypeScript** | Type safety and maintainable code |
+| 🎨 **Tailwind CSS** | Responsive styling and modern UI |
+| 🪄 **Framer Motion** | Smooth animations and transitions |
+| 🛠️ **React Icons** | Scalable vector icons |
 
 ---
 
-## Description:
+## 💡 Description
 
-Instagram Clone Pro is a full-featured front-end project replicating key Instagram functionality. Users can:
+Users can:
 
-- View stories with progress bars that auto-advance and allow navigation with left/right clicks  
-- Create posts by uploading images, previewing them, and adding captions  
-- Like posts and add comments  
-- Delete posts from the feed  
-- Interact with a responsive and centered feed optimized for desktop and mobile  
-- Experience animated modal-like upload box with drag & drop support  
+- View stories with auto-progress and navigation  
+- Create posts with live image preview and captions  
+- Like, comment, and delete posts  
+- Interact with a responsive and centered feed  
+- Use drag & drop upload modal with smooth animations  
 
-The project showcases:
+The project highlights:
 
-- Reusable React components with TypeScript for type safety  
+- Reusable React components with TypeScript  
 - Smooth animations using Framer Motion  
 - Responsive design with Tailwind CSS  
-- Interactive post creation with live preview  
-- Dark mode-inspired UI with modern styling  
+- Interactive post creation and live preview  
+- Dark mode-inspired UI for modern aesthetics  
 
 ---
 
-<h1 align="center">Project Picture 🖼️</h1>
+## 🖼️ Project Preview
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
   <br/><br/>
   <img src="/pic2.png" width="700px" />
+  <br/><br/>
+  <img src="/pic3.png" width="700px" />
 </div>
 
-<hr/>
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Focused on interactive and modern web projects  
+
+---
 
 <div align="center">
-  <img src="/pic3.png" width="700px" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
